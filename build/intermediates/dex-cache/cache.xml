@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_4406277f2d24d295a20f22af1c48f48a3edcb1f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4049284b7a42889d5839ff1a8b26820a6d469374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_c8b3e4f2d95680569f38e5ccb870d41e37dda770/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_e5cee20f5158d045174f645e44cdaa659e6f5f0e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_497ecab100d5f631aefa12b86d94a0c1e26d57c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_2a4956acf6b18236c5eb2b2901f94023c27371c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_6ae73537562939173af2c367237108ba66b080ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_8160d492925623798eb6cf7d64bde5d971c3297b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_4aac6cc8c3691e98068ef7d5f82998750c21c017/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0572d4d85ac97f6ca36b84e3503ca1dead816d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_949c90bf5a81530e3980ef6123b230ac8df59b97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_0615836828700a120a2dd5aa0da3b9fae53d451c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_c2a7dcfd4876c3d2ed593117c5db4d409a06ec91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_88a85ed332a05535b308034fe3563abc9b99e04c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_8e81df957bfe158b78c047ea5698393c36103719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_acf759cbb2f2f729fdc1474f16e9642a285d145b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_7b3c0cd5ad280138d9b7723e8feb1cf0cbe44768/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.jaredrummler/android-processes/1.0.9/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e870b9f964420865941da051c666f6339217002">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jaredrummler-android-processes-1.0.9_a17a2f66e64efb84774ad2075a3aad7ff79b1117/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5585d66a274125ee1580ec6703e801dbd6289904">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa254031406051a40590e8d3fc4e87e7ebe72a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_fcf119348b6e41985d52455ffd15e99678d05380/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_b17b5c66e7e7dd15224cf52b45ca9b91c23f68a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_2de5c5ee8fcc1476cf127f38a91734ce8be2f085/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_054c2cbd2a2ac759da7f321f46189bd7ffd12c9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_08817032dab467235a72550f8edc8d19573eb59d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_18b3849d471059cb954d7d82728210e15ed578de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e033a473192535a819ca16ed470c0622801351e3">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fa5b9a4802be909ac99f6a201e1c571ac8e009f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_ee76696cf488b0d150966c700f96eee248814639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_6c0cac237f9656ab5eeb4da1070d420ad7d9cc35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_48761edef07b3d99b25d989bbf51753e09585a84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_cdaf402ee567c2b8347225ff51c69205607df6dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_3fedbd5d6c2f7c138fe83cc7d5a8b9450500a800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_d7d462379f3f4ed20ffc467fdc9a1a9e179c54af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_45122fdf3b6a92b94140b514ad4fc7b44513eafe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_cd660f400a8a4e51c8fcd475f6e4ccec693a3073/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/angga/work/Codigo/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/angga/work/Codigo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_ddab5eeeb2a7cf7c0cf9babf836f79158727f1b7/classes.dex" />
+    </item>
+
+</items>

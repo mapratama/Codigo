@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Codigo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="tab_location_name">Location</string>
+    <string name="tab_task_name">Task App</string>
+    <string name="send_location">Send Location</string>
+    <string name="retry">Retry</string>
+    <string name="ignore_location_permission">Unable to detect your location, please enable Location Services in app settings.</string>
+    <string name="ignore_accounts_permission">Unable to get application account, please enable Contacts in app settings.</string>
+    <string name="error_get_current_location">Could not get your location. Make sure location is enabled on this device.</string>
+    <string name="error_launch_intent_for_pavkage">Sorry unable to open this application</string>
+    <string name="error_google_play_services">Unable to load Maps. Please check your google play services</string>
+    <string name="error_load_map">Unable to load Maps. Please try again later</string>
+    <string name="error_autocomplete_location">Unable to load Maps. Please try again later</string>
+    <string name="error_send_location">Unable to send location. Please try again later</string>
+    <string name="successfuly_send_location">Location has been succesfully delivered to recipient</string>
+    <string name="fcm_server_key">AIzaSyBlkKy1OOpMPshpxYv_PpW3uK8Qai6JO_g</string>
+</resources>
